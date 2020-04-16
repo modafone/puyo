@@ -10,7 +10,6 @@ enum puyocolor { NONE, RED, BLUE, GREEN, YELLOW };
 
 //盤面状態
 puyocolor *data = NULL;
-//盤面の行数，列数
 unsigned int data_line = 0;
 unsigned int data_column = 0;
 
